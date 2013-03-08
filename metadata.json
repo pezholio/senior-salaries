@@ -1,0 +1,46 @@
+{
+    "name": "Senior Salaries",
+    "description": "Salaries for Lichfield District Council senior staff",
+    "license": {
+      "name": "Open Government License",
+      "url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/"
+    },
+    "definitions": [
+        {
+            "label": "Body", 
+            "name": "URI of council", 
+            "type": "string"
+        }, 
+        {
+            "label": "Body Name", 
+            "name": "Council name", 
+            "type": "string"
+        }, 
+        {
+            "label": "Job Title", 
+            "name": "Council name", 
+            "type": "string"
+        }, 
+        {
+            "label": "Service Area Codes", 
+            "name": "Service area codes", 
+            "type": "string", 
+        },
+        {
+            "label": "Service Area Name", 
+            "name": "Service Area Name", 
+            "type": "string", 
+        },
+        {
+            "label": "FTE", 
+            "name": "Full Time Equivalent", 
+            "type": "string", 
+        },
+        {
+            "label": "Salary", 
+            "name": "Salary", 
+            "type": "string", 
+        }
+    ],
+    "data": "data.csv"
+}
