@@ -1,8 +1,8 @@
-"Body ","Body Name","Job Title","Service Area Codes","Service Area Name","FTE","Salary"
-"http://statistics.data.gov.uk/id/local-authority/41UD","Lichfield District Council","Chief Executive ","CORP, CRSP","Responsible for all staff and all service budgets","1.0 (Full time)","£96,906"
-"http://statistics.data.gov.uk/id/local-authority/41UD","Lichfield District Council","Strategic Director Organisational Development ","CORP","Organisational Development","1.0 (Full time)","£77,820"
-"http://statistics.data.gov.uk/id/local-authority/41UD","Lichfield District Council","Strategic Director Democratic, Development & Legal","CORP, ENVR","Democratic, Development & Legal","1.0 (Full time)","£77,820"
-"http://statistics.data.gov.uk/id/local-authority/41UD","Lichfield District Council","Strategic Director Community , Housing & Partnership","HLTH, HOUS, ENVR","Community & Partnership ","1.0 (Full time)","£77,820"
-"http://statistics.data.gov.uk/id/local-authority/41UD","Lichfield District Council","Director Operational Services ","ENVR","Operational Services ","1.0 (Full time)","£70,254"
-"http://statistics.data.gov.uk/id/local-authority/41UD","Lichfield District Council","Director Finance, Revenue & Benefits","CORP","Finance Revenue & Benefits ","1.0 (Full time)","£70,254"
-"http://statistics.data.gov.uk/id/local-authority/41UD","Lichfield District Council","Director Leisure, Parks & Play","CRSP","Leisure, Parks & Play","1.0 (Full time)","£65,392"
+body	body-name	job-title	service-area-codes	service-area-name	fte	salary
+http://statistics.data.gov.uk/id/local-authority/41UD	Lichfield District Council	Chief Executive 	CORP, CRSP	Responsible for all staff and all service budgets	1.0 (Full time)	£96,906
+http://statistics.data.gov.uk/id/local-authority/41UD	Lichfield District Council	Strategic Director Organisational Development 	CORP	Organisational Development	1.0 (Full time)	£77,820
+http://statistics.data.gov.uk/id/local-authority/41UD	Lichfield District Council	Strategic Director Democratic, Development & Legal	CORP, ENVR	Democratic, Development & Legal	1.0 (Full time)	£77,820
+http://statistics.data.gov.uk/id/local-authority/41UD	Lichfield District Council	Strategic Director Community , Housing & Partnership	HLTH, HOUS, ENVR	Community & Partnership 	1.0 (Full time)	£77,820
+http://statistics.data.gov.uk/id/local-authority/41UD	Lichfield District Council	Director Operational Services 	ENVR	Operational Services 	1.0 (Full time)	£70,254
+http://statistics.data.gov.uk/id/local-authority/41UD	Lichfield District Council	Director Finance, Revenue & Benefits	CORP	Finance Revenue & Benefits 	1.0 (Full time)	£70,254
+http://statistics.data.gov.uk/id/local-authority/41UD	Lichfield District Council	Director Leisure, Parks & Play	CRSP	Leisure, Parks & Play	1.0 (Full time)	£65,392

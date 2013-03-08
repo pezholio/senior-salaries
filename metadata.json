@@ -7,37 +7,37 @@
     },
     "definitions": [
         {
-            "label": "Body", 
+            "label": "body", 
             "name": "URI of council", 
             "type": "string"
         }, 
         {
-            "label": "Body Name", 
+            "label": "name", 
             "name": "Council name", 
             "type": "string"
         }, 
         {
-            "label": "Job Title", 
-            "name": "Council name", 
+            "label": "job-title", 
+            "name": "Job Title", 
             "type": "string"
         }, 
         {
-            "label": "Service Area Codes", 
+            "label": "service-area-codes", 
             "name": "Service area codes", 
             "type": "string", 
         },
         {
-            "label": "Service Area Name", 
+            "label": "service-area-name", 
             "name": "Service Area Name", 
             "type": "string", 
         },
         {
-            "label": "FTE", 
+            "label": "fte", 
             "name": "Full Time Equivalent", 
             "type": "string", 
         },
         {
-            "label": "Salary", 
+            "label": "salary", 
             "name": "Salary", 
             "type": "string", 
         }
