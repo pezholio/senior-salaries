@@ -12,7 +12,7 @@
             "type": "string"
         }, 
         {
-            "label": "name", 
+            "label": "body-name", 
             "name": "Council name", 
             "type": "string"
         }, 
@@ -24,22 +24,22 @@
         {
             "label": "service-area-codes", 
             "name": "Service area codes", 
-            "type": "string", 
+            "type": "string"
         },
         {
             "label": "service-area-name", 
             "name": "Service Area Name", 
-            "type": "string", 
+            "type": "string"
         },
         {
             "label": "fte", 
             "name": "Full Time Equivalent", 
-            "type": "string", 
+            "type": "string"
         },
         {
             "label": "salary", 
             "name": "Salary", 
-            "type": "string", 
+            "type": "string"
         }
     ],
     "data": "data.csv"
